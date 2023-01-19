@@ -5,11 +5,11 @@
 Всѣ матеріалы могутъ быть найдены въ файлѣ [main.ipynb](/main.ipynb)
 
 
-## Copyright
+## Лицензія
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Все материалы доступны по лицензии [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/). \
-При заимствовании любых материалов из данного репозитория, необходимо оставить ссылку на него, а также, указать мое имя: **Константин Леладзе**.
+Всѣ матеріалы доступны по лицензіи [Creative Commons «Attribution-ShareAlike» 4.0](http://creativecommons.org/licenses/by-sa/4.0/). \
+При заимствованіи любыхъ матеріаловъ изъ даннаго репозиторія, необходимо оставить ссылку на него, а также, указать моё имя: **Константинъ Леладзе**.
 
-__© Konstantin Leladze__
+__© Константинъ Леладзе__
